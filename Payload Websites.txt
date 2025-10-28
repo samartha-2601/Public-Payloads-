@@ -1,0 +1,5 @@
+https://payloads.site/
+
+https://findxss.com/
+
+Seclists: https://github.com/danielmiessler/SecLists
